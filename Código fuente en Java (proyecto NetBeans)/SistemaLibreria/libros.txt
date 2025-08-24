@@ -1,0 +1,4 @@
+NOVELA;Cien años de soledad;ISBN-001;79900;1967;Ficción;Gabriel García Márquez;Colombia
+TEXTO;Álgebra Lineal;ISBN-002;99900;2020;Universidad;Isaac Asimov;Rusia/EE.UU.
+NOVELA;1984;ISBN-003;65000;1949;Distopía;George Orwell;Reino Unido
+TEXTO;Introducción a la Programación;ISBN-004;85000;2021;Secundaria;John Doe;EE.UU.
