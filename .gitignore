@@ -1,0 +1,17 @@
+# NetBeans
+nbproject/private/
+build/
+dist/
+
+# Archivos de StarUML
+*.mdj
+*.uml
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
