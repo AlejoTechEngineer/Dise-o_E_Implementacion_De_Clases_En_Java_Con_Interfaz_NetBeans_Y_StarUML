@@ -1,3 +1,5 @@
+<div align="center">
+
 # Diseño e Implementación de Clases en Java con NetBeans y StarUML
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -7,6 +9,10 @@
 > Diseño orientado a objetos de un sistema de librería: diagrama de clases UML en StarUML e implementación en Java con NetBeans.
 
 ## Descripción
+
+</div>
+
+---
 
 Proyecto de diseño e implementación de clases Java para un **sistema de gestión de librería**. Se parte del modelado estructural en **StarUML** (diagrama de clases con herencia, asociaciones y multiplicidades) y se implementa el código fuente en **Java** con interfaz de usuario construida en **NetBeans IDE**, aplicando los principios de la Programación Orientada a Objetos.
 
@@ -29,3 +35,12 @@ Proyecto de diseño e implementación de clases Java para un **sistema de gesti�
 
 **Asignatura:** Ingeniería de Software · **Institución:** Ingeniería Informática
 **Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista Ingeniería de Software
+
+---
+
+## Autor
+
+**Alejandro De Mendoza**  
+Ingeniero Informático · Especialista en IA · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlejoTechEngineer-181717?style=for-the-badge&logo=github)](https://github.com/AlejoTechEngineer)
