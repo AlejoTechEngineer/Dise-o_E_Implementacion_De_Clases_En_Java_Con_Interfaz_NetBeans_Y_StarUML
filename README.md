@@ -38,6 +38,24 @@ Proyecto de diseño e implementación de clases Java para un **sistema de gesti�
 
 ---
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Modelado UML - DiagramaClases_Libreria.mdj] --> B{Jerarquia de clases}
+    B --> C[Libro - Clase base]
+    C --> D[LibroFisico - herencia]
+    C --> E[LibroDigital - herencia]
+    D & E --> F[Polimorfismo - metodos prestamo/consulta]
+    F --> G[Implementacion en Java - Codigo fuente en Java/]
+    G --> H[Interfaz de usuario - NetBeans IDE]
+    H --> I{Operacion del catalogo}
+    I --> J[Buscar libro]
+    I --> K[Realizar prestamo]
+    I --> L[Devolver libro]
+    J & K & L --> M[Resultado en UI]
+```
+
 ## Autor
 
 **Alejandro De Mendoza**  
