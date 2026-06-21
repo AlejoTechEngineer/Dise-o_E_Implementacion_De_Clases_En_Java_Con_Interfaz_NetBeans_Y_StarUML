@@ -24,20 +24,6 @@ Proyecto de diseño e implementación de clases Java para un **sistema de gesti�
 | `Código fuente en Java/` | Proyecto NetBeans con implementación completa |
 | `*.pdf` | Informe de diseño y documentación del sistema |
 
-## Principios POO aplicados
-
-- **Encapsulamiento:** Atributos privados con getters/setters
-- **Herencia:** Jerarquía de clases Libro → LibroFisico, LibroDigital
-- **Polimorfismo:** Sobrescritura de métodos de consulta y préstamo
-- **Abstracción:** Interfaces para operaciones del catálogo
-
-## Contexto académico
-
-**Asignatura:** Ingeniería de Software · **Institución:** Ingeniería Informática
-**Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista Ingeniería de Software
-
----
-
 ## Arquitectura
 
 ```mermaid
@@ -55,6 +41,20 @@ flowchart TD
     I --> L[Devolver libro]
     J & K & L --> M[Resultado en UI]
 ```
+
+## Principios POO aplicados
+
+- **Encapsulamiento:** Atributos privados con getters/setters
+- **Herencia:** Jerarquía de clases Libro → LibroFisico, LibroDigital
+- **Polimorfismo:** Sobrescritura de métodos de consulta y préstamo
+- **Abstracción:** Interfaces para operaciones del catálogo
+
+## Contexto académico
+
+**Asignatura:** Ingeniería de Software · **Institución:** Ingeniería Informática
+**Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista Ingeniería de Software
+
+---
 
 ## Autor
 
